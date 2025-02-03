@@ -1,0 +1,7 @@
+C:\Users\xevel\Desktop\.NET_Learning\Syntax\bin\Debug\Syntax.exe.config
+C:\Users\xevel\Desktop\.NET_Learning\Syntax\bin\Debug\Syntax.exe
+C:\Users\xevel\Desktop\.NET_Learning\Syntax\bin\Debug\Syntax.pdb
+C:\Users\xevel\Desktop\.NET_Learning\Syntax\obj\Debug\Syntax.csproj.AssemblyReference.cache
+C:\Users\xevel\Desktop\.NET_Learning\Syntax\obj\Debug\Syntax.csproj.CoreCompileInputs.cache
+C:\Users\xevel\Desktop\.NET_Learning\Syntax\obj\Debug\Syntax.exe
+C:\Users\xevel\Desktop\.NET_Learning\Syntax\obj\Debug\Syntax.pdb
