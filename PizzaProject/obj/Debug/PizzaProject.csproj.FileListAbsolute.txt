@@ -1,0 +1,10 @@
+C:\Users\xevel\Desktop\.NET_Learning\PizzaProject\bin\Debug\PizzaProject.exe.config
+C:\Users\xevel\Desktop\.NET_Learning\PizzaProject\bin\Debug\PizzaProject.exe
+C:\Users\xevel\Desktop\.NET_Learning\PizzaProject\bin\Debug\PizzaProject.pdb
+C:\Users\xevel\Desktop\.NET_Learning\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+C:\Users\xevel\Desktop\.NET_Learning\PizzaProject\obj\Debug\PizzaProject.Form1.resources
+C:\Users\xevel\Desktop\.NET_Learning\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+C:\Users\xevel\Desktop\.NET_Learning\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+C:\Users\xevel\Desktop\.NET_Learning\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Users\xevel\Desktop\.NET_Learning\PizzaProject\obj\Debug\PizzaProject.exe
+C:\Users\xevel\Desktop\.NET_Learning\PizzaProject\obj\Debug\PizzaProject.pdb

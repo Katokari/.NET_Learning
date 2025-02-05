@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xevel\\Desktop\\.NET_Learning\\WindowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4416F4-E9CE-43F8-ABE2-9A33B6CA3896}|..\\PizzaProject\\PizzaProject.csproj|c:\\users\\xevel\\desktop\\.net_learning\\pizzaproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4416F4-E9CE-43F8-ABE2-9A33B6CA3896}|..\\PizzaProject\\PizzaProject.csproj|c:\\users\\xevel\\desktop\\.net_learning\\pizzaproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\xevel\\Desktop\\.NET_Learning\\PizzaProject\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\PizzaProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\xevel\\Desktop\\.NET_Learning\\PizzaProject\\Form1.cs",
+              "RelativeToolTip": "..\\PizzaProject\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:51:47.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xevel\\Desktop\\.NET_Learning\\PizzaProject\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\PizzaProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\xevel\\Desktop\\.NET_Learning\\PizzaProject\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\PizzaProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:10:03.721Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
