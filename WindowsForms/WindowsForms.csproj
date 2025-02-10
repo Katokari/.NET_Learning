@@ -46,11 +46,47 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmCheckedList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckedList.Designer.cs">
+      <DependentUpon>frmCheckedList.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComboBox.Designer.cs">
+      <DependentUpon>frmComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDialogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDialogs.Designer.cs">
+      <DependentUpon>frmDialogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLinkLable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLinkLable.Designer.cs">
+      <DependentUpon>frmLinkLable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListView.Designer.cs">
+      <DependentUpon>frmListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaskedTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaskedTextBox.Designer.cs">
+      <DependentUpon>frmMaskedTextBox.cs</DependentUpon>
     </Compile>
     <Compile Include="frmBoxes.cs">
       <SubType>Form</SubType>
@@ -64,16 +100,79 @@
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmMonthCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMonthCalendar.Designer.cs">
+      <DependentUpon>frmMonthCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotify.Designer.cs">
+      <DependentUpon>frmNotify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimePicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimePicker.Designer.cs">
+      <DependentUpon>frmTimePicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimer.Designer.cs">
+      <DependentUpon>frmTimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTreeViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTreeViewer.Designer.cs">
+      <DependentUpon>frmTreeViewer.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCheckedList.resx">
+      <DependentUpon>frmCheckedList.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmBoxes.resx">
       <DependentUpon>frmBoxes.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmComboBox.resx">
+      <DependentUpon>frmComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDialogs.resx">
+      <DependentUpon>frmDialogs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLinkLable.resx">
+      <DependentUpon>frmLinkLable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListView.resx">
+      <DependentUpon>frmListView.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaskedTextBox.resx">
+      <DependentUpon>frmMaskedTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMonthCalendar.resx">
+      <DependentUpon>frmMonthCalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotify.resx">
+      <DependentUpon>frmNotify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimePicker.resx">
+      <DependentUpon>frmTimePicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimer.resx">
+      <DependentUpon>frmTimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTreeViewer.resx">
+      <DependentUpon>frmTreeViewer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

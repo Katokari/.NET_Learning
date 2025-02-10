@@ -1,0 +1,10 @@
+C:\Users\xevel\Desktop\.NET_Learning\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\xevel\Desktop\.NET_Learning\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\xevel\Desktop\.NET_Learning\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\xevel\Desktop\.NET_Learning\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\xevel\Desktop\.NET_Learning\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\xevel\Desktop\.NET_Learning\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\xevel\Desktop\.NET_Learning\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\xevel\Desktop\.NET_Learning\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\xevel\Desktop\.NET_Learning\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\xevel\Desktop\.NET_Learning\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb

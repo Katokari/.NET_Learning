@@ -1,0 +1,11 @@
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\bin\Debug\MDI Container.exe.config
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\bin\Debug\MDI Container.exe
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\bin\Debug\MDI Container.pdb
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\obj\Debug\MDIContainer.csproj.AssemblyReference.cache
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\obj\Debug\MDI_Container.Form1.resources
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\obj\Debug\MDI_Container.Form2.resources
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\obj\Debug\MDI_Container.Properties.Resources.resources
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\obj\Debug\MDIContainer.csproj.GenerateResource.cache
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\obj\Debug\MDIContainer.csproj.CoreCompileInputs.cache
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\obj\Debug\MDI Container.exe
+C:\Users\xevel\Desktop\.NET_Learning\MDI Container\obj\Debug\MDI Container.pdb

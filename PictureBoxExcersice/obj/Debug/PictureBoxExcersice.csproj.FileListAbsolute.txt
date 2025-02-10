@@ -1,0 +1,10 @@
+C:\Users\xevel\Desktop\.NET_Learning\PictureBoxExcersice\bin\Debug\PictureBoxExcersice.exe.config
+C:\Users\xevel\Desktop\.NET_Learning\PictureBoxExcersice\bin\Debug\PictureBoxExcersice.exe
+C:\Users\xevel\Desktop\.NET_Learning\PictureBoxExcersice\bin\Debug\PictureBoxExcersice.pdb
+C:\Users\xevel\Desktop\.NET_Learning\PictureBoxExcersice\obj\Debug\PictureBoxExcersice.csproj.AssemblyReference.cache
+C:\Users\xevel\Desktop\.NET_Learning\PictureBoxExcersice\obj\Debug\PictureBoxExcersice.Form1.resources
+C:\Users\xevel\Desktop\.NET_Learning\PictureBoxExcersice\obj\Debug\PictureBoxExcersice.Properties.Resources.resources
+C:\Users\xevel\Desktop\.NET_Learning\PictureBoxExcersice\obj\Debug\PictureBoxExcersice.csproj.GenerateResource.cache
+C:\Users\xevel\Desktop\.NET_Learning\PictureBoxExcersice\obj\Debug\PictureBoxExcersice.csproj.CoreCompileInputs.cache
+C:\Users\xevel\Desktop\.NET_Learning\PictureBoxExcersice\obj\Debug\PictureBoxExcersice.exe
+C:\Users\xevel\Desktop\.NET_Learning\PictureBoxExcersice\obj\Debug\PictureBoxExcersice.pdb

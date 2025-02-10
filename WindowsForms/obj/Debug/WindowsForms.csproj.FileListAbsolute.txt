@@ -10,3 +10,14 @@ C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.exe
 C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.pdb
 C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmMain.resources
 C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmBoxes.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmMaskedTextBox.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmComboBox.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmLinkLable.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmCheckedList.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmTimePicker.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmMonthCalendar.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmTimer.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmNotify.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmListView.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmTreeViewer.resources
+C:\Users\xevel\Desktop\.NET_Learning\WindowsForms\obj\Debug\WindowsForms.frmDialogs.resources
